@@ -1,0 +1,71 @@
+2) Um computador, com o melhor custo/benefício, para uso corporativo, sabendo-se que na máquina será utilizada a última versão do software Autodesk Revit 2026. 
+
+Processador: Intel Core I7 14th geração
+Preço: R$ 1.849,99
+Justificativa: A escolha de um processador parrudo, se deve ao alto uso individual de núcleo do software, operando em 3.4GHz padrão, este processador da conta.
+Link: https://www.pichau.com.br/processador-intel-core-i7-14700f-20-core-28-threads-3-4ghz-5-4ghz-turbo-cache-33mb-lga1700-bx8071514700f
+
+
+Placa mãe: Gigabyte B760M Aorus Elite
+Preço: R$ 999,99
+Justificativa: Por conta de sua construção mais adequada as tensões trazidas pelo I7 e seu tamanho acessível aos escritórios, se mostrou um otimo custo e boa segurança
+Link: https://www.pichau.com.br/openbox-placa-mae-gigabyte-b760m-aorus-elite-ddr5-lga1700-m-atx-chipset-intel-b760-b760m-a-elite-gen5
+
+
+Memória Ram: DDR5 16G 6000MHz
+Preço: R$1.570,35
+Justificativa: Apesar do preço altíssimo, o ddr5 se mantem a melhor opção, por conta da sua maior frequência, o que pode amenizar a falta de ram, podendo realizar um upgrade posteriormente
+Link: https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=1005006024441521&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y
+
+
+GPU: RTX 4060 Ti 8GB
+Preço: R$ 2.479,99
+Justificativa: O preço a partir desta placa torna-se exponencial, sem um aumento significativo no resultado final, ela ja é capaz de rodar na qualidade recomendada
+Link: https://www.pichau.com.br/placa-de-video-inno3d-geforce-rtx-4060-ti-twin-x2-8gb-gddr6-128-bit-n406t2-08d6-171153n-nac
+
+
+Fonte: Corsair 750W 80 Plus Bronze
+Preço: R$499,00 
+Justificativa: Irá comportar tranquilamente o nosso hardware, considerando o estresse constante dos componentes, mantendo alta segurança e eficiência.
+Link: https://www.amazon.com.br/Fonte-Atx-750W-Incluso-Alimenta%C3%A7%C3%A3o/dp/B07Z8PG63B/ref=asc_df_B07Z8PG63B?mcid=7393db0ebcbf3bb19c488c75858fa781&hvadid=709884378157&hvpos=&hvnetw=g&hvrand=4673218889558296625&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9216076&hvtargid=pla-898941782360&language=pt_BR
+
+
+Armazenamento: SSD 512GB Adata NVME
+Preço: R$549,99
+Justificativa: A maioria das empresas tem migrado para o armazenamento em nuvem, então um ssd de 500gb consegue manter bem as funcionalidades, e arquivos de maior circulação
+Link: https://www.amazon.com.br/Legend-Leitura-Grava%C3%A7%C3%A3o-1600mb-Aleg-710-512gcs/dp/B09YRZHRGM/ref=asc_df_B09YRZHRGM?mcid=586fa3d2a12c39dc8109edb92fb6fc6e&hvadid=721147801917&hvpos=&hvnetw=g&hvrand=5306027688876608821&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9216076&hvtargid=pla-2381201824264&psc=1
+
+
+Refrigeração: Water Cooler Kalkan Delta V2 240 
+Preço: R$ 289,99
+Justificativa: Necessário para manter o bom funcionamento do Processador, mantendo o desempenho e a segurança do equipamento
+Link: https://www.terabyteshop.com.br/produto/40552/water-cooler-kalkan-delta-v2-240-argb-240mm-com-display-intel-amd-preto-klk00066
+
+
+Gabinete: Liketec Bambu
+Preço: R$ 199,99
+Justificativa: Simples, Profissional, Acessível e de pequeno porte
+Link: https://www.kabum.com.br/produto/910944/gabinete-gamer-liketec-bambu-micro-atx-painel-frontal-com-detalhes-em-madeira-preto-lc-kb-bambu-2025-1004
+
+
+Monitor: Samsung 27" FHD, 100 Hz
+Preço: R$686,00
+Justificativa: Bom tamanho para visualizar bem os modelos, e uma boa fluidez pelo custo beneficio
+Link: https://www.amazon.com.br/Monitor-Gamer-Samsung-HDMI-Preto/dp/B0F1DBX48S/ref=asc_df_B0F1DBX48S?mcid=4b8a266069ad364687899ce4e379fbd1&hvadid=709884378187&hvpos=&hvnetw=g&hvrand=8696929583164095679&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9216076&hvtargid=pla-2419752125011&psc=1&language=pt_BR
+
+
+teclado e mouse
+Preço: R$ 259,90
+Justificativa: Sem fio, baratinho caso precise de reposição, e bonito o bastante para agradar o usuário 
+Link: https://www.kalunga.com.br/prod/teclado-e-mouse-sem-fio-wireless-e-bluetooth-padrao-abnt2-branco-cinza-e-amarelo-kmwb258tc-ergo-cx-1-un/671660
+
+
+
+
+
+
+Valor total: R$ 9.385,19
+========================================================================
+
+Considerações:
+trata-se de um software bem pesado, então focando nas especificações recomendadas obtivemos um valor um tanto elevado
