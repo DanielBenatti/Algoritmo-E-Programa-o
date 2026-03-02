@@ -1,0 +1,68 @@
+3) Uma máquina para jogadores de games, usar como base os requisitos do jogo Resident Evil Requiem.
+
+Processador: AMD Ryzen 5 5500, 3.6GHz
+Preço: R$ 578,99
+Justificativa: Já comporta as especificações recomendadas, e seu baixo custo permite investir mais na GPU, além do seu menor aquecimento
+Link: https://www.kabum.com.br/produto/320799/processador-amd-ryzen-5-5500-3-6ghz-4-2ghz-max-turbo-cache-19mb-am4-sem-video-100-100000457box
+
+Memoria Ram: DDR4 16GB (2x8GB) 3200MHz
+Preço: R$ 1.149,99
+Justificativa: Muito caro, mas possui rgb
+Link: https://www.terabyteshop.com.br/produto/26048/memoria-ddr4-kingston-fury-beast-rgb-16gb-2x8gb-3200mhz-preto-kf432c16bb2ak216
+
+GPU: RTX 5060 Ti 8G
+Preço: R$ 2.899,99
+Justificativa: Uma GPU atual, vai entregar mais FPS com as novas tecnologias de DLSS, e possui capacidade de rodar Full HD em qualidade alta.
+Link: https://www.kabum.com.br/produto/893049/placa-de-video-msi-geforce-rtx-5060-ti-8g-shadow-2x-oc-plus-nvidia-geforce-8gb-gddr7-128-bit-g506t-8s2cp
+
+Placa Mãe: ASRock B450M Steel Legend AM4
+Preço: R$ 638,99
+Justificativa: Boa construção, conta com dissipadores tirando a necessidade de um investimento extra em coolers, e também possui RGB
+Link: https://www.kabum.com.br/produto/100672/placa-mae-asrock-b450m-steel-legend-amd-am4-matx-ddr4-preto-b450m-steel-legend
+
+Armazenamento: SSD 512GB Adata NVME
+Preço: R$549,99
+Justificativa: SSD para manter o save seguro sem risco de corrompe-lo
+Link: https://www.amazon.com.br/Legend-Leitura-Grava%C3%A7%C3%A3o-1600mb-Aleg-710-512gcs/dp/B09YRZHRGM/ref=asc_df_B09YRZHRGM?mcid=586fa3d2a12c39dc8109edb92fb6fc6e&hvadid=721147801917&hvpos=&hvnetw=g&hvrand=5306027688876608821&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9216076&hvtargid=pla-2381201824264&psc=1
+
+Fonte: 550W, 80 Plus Bronze
+Preço: R$ 169,99
+Justificativa: Aguenta o hardware, tem selo de eficiência, tem rgb.
+Link: https://www.terabyteshop.com.br/produto/31474/fonte-brx-rainbow-rgb-550w-80-plus-bronze-pfc-ativo-rb550w
+
+Gabinete: Primetek Infinity
+Preço: R$ 521,01
+Justificativa: Bonitinho, já vem com 7 fans, e possui um belo rgb, para combinar com tudo
+Link: https://www.kabum.com.br/produto/914085/gabinete-gamer-primetek-infinity-vidro-curvo-7-fans-argb-suporte-gpu
+
+Monitor: AOC AGON QUAD 27"
+Preço: R$1.499,00
+Justificativa: Boa taxa de atualização, bom tamanho, boa resolução, peca apenas no tipo de painel, entretanto por seu custo beneficio imbatível o IPS se torna aceitavel
+Link: https://www.amazon.com.br/Monitor-Gamer-AOC-Ajust%C3%A1vel-Q27G4F/dp/B0FGDK8DJM/ref=sr_1_3?sr=8-3
+
+Headset: Redragon Zeus Pro
+Preço: R$317,99
+Justificativa: Para ouvir a dublagem em pt-br e se assustar com o áudio 3d (recomendação pessoal)
+Link: https://www.kabum.com.br/produto/508106/headset-gamer-sem-fio-redragon-zeus-pro-7-1-driver-53mm-bluetooth-preto-h510-pro?&gad_campaignid=22446425996
+
+Mouse: Logitech G305
+Preço: R$192,75
+Justificativa: Para uma melhor experiencia na mira, uma boa duração de bateria e um maior conforto caso opte pelo mouse e teclado
+Link: https://www.amazon.com.br/Logitech-LIGHTSPEED-Bot%C3%B5es-Program%C3%A1veis-12-000/dp/B07GPRWFC5?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1ZZFT5FULY4LN
+
+Teclado: ATTACK SHARK x AJAZZ
+Preço: R$313,49
+Justificativa: Um maior conforto, e maior vida útil como teclado, além de maior sensação tátil para ajudar na play
+Link: https://www.amazon.com.br/ATTACK-SHARK-mec%C3%A2nico-hot-swappable-retroilumina%C3%A7%C3%A3o/dp/B0DK7K91CQ/ref=asc_df_B0DK7K91CQ?mcid=c35ea28ef94c34d0bd6028ae323e8ced&hvadid=709884703639&hvpos=&hvnetw=g&hvrand=7859067921027489785&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9216076&hvtargid=pla-2433230404055&language=pt_BR
+
+Controle: 8Bitdo Ultimate 2
+Preço: R$395,00
+Justificativa: Melhor experiencia para os amantes de joystick, construção ideal para cliques agressivos na hora do desespero, boa bateria e bom encaixe na pegada
+Link: https://www.amazon.com.br/Ultimate-Wireless-Controller-Joysticks-Switchable/dp/B0DR8V899R/ref=asc_df_B0DR8Y5W6Z?mcid=46faae9f979d3e4f86ca9e4952bf8955&hvadid=709884703639&hvpos=&hvnetw=g&hvrand=3161284371663394313&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9216076&hvtargid=pla-2593229554792&language=pt_BR
+
+Preço do Jogo: R$299,99
+-----------------------------------------------------------------
+
+Total: R$ 9.527,17
+
+Adendos: Vale muito a pena.
