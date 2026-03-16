@@ -1,0 +1,97 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
+  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
+  Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+#include <stdio.h>
+
+int main()
+{
+    int a, b,c,d;
+    printf("Há uma bifurcação a sua frente, para onde vai? (1) esquerda (2) direita\n");
+    scanf("%i", & a);
+    if(a == 1){
+        printf("Morte instantanea para uma gaveta voadora corintiana %i",a);
+    }else if(a == 2){
+        printf("Você chega a um vilarejo, onde quer visitar?\n (1) ferreiro (2) alquimista (3) alfaiate (4) castelo\n");
+        scanf("%i", & b);
+        if(b == 1){
+            printf("Você encontra belas armas e armaduras\n(1) Comprar uma espada (2) Comprar uma armadura (3) EasterEgg\n");
+            scanf("%i", & c);
+            if(c == 1){
+                printf("Você adquire uma pequena espada\n");
+                d == 1;
+            }else if(c = 2){
+                printf("O ferreiro te chama de covarde, a melhor defesa é o ataque\n");
+                d == 2;
+            }else if(c = 3){
+                printf("Você quer um easteregg safado? vai ter é dois egg, o ferreiro molesta-te brutalmente\nMorte instantanea");
+            }else{
+                printf("Vá a merda");
+            }
+        }else if(b == 2){
+            printf("O alquimista te oferece 3 poções\nQual deseja experimentar?\n(1) Poção cheirosa (2) Poção dourada (3) Poção de morte instantanea\n");
+            scanf("%i", & c);
+            if(c == 1){
+                printf("Você vira uma linda mulher, e o alquimista te espanca (ele é misogino)");
+            }else if(c == 2){
+                printf("Você vira uma estátua de ouro, morte instantanea");
+            }else if(c == 3){
+                printf("O alquimista morre instantaneamente\n");
+                d = 3;
+            }else{
+                printf("Vá a merda");
+            }
+        }else if(b == 3){
+            printf("O alfaiate te oferece seus serviços, o que deseja?\n(1) Tirar sua medidas (2) Doar sangue para tingir um vestido de vermelho (3) Doar suas roupas\n");
+            scanf("%i", & c);
+            if(c == 1){
+                printf("A fita se embrama no seu pescoço, morte instantanea");
+            }else if(c == 2){
+                printf("Você contrai anemia, mas recebe uma boa recompensa do alfaiate\n");
+                d = 4;
+            }else if(c == 3){
+                printf("Você fica nu\n");
+                d = 5;
+            }else{
+                printf("Vá a merda");
+            }
+        }else if(b == 4){
+            printf("Há dois guardas no portão, o que deseja fazer?\n (1) Agressivar (2) Ajoelhar (3) Dançar\n");
+            scanf("%i", & c);
+            if(c == 1){
+                printf("A chuva cai do céu, e você percebe sua existencia miseravel\nMorte instantanea");
+            }else if(c == 2){
+                printf("Ajoelhou vai ter que rezar");
+            }else if(c == 3){
+                printf("A realeza deste lugar é decidida numa batalha de dança\nE você dançou muito feio\nO que sobra afinal?");
+                d = 6;
+            }else{
+                printf("Vá a merda");
+            }
+        }else{
+            printf("Vá a merda");
+        }
+        printf("Então você enfim sai da cidade\nE um grupo de bandidos te cerca\n");
+        if(d==1){
+            printf("Você mata brutalmente todos os bandidos\nFim brutal");
+        }else if(d==2){
+            printf("Você tenta fugir, incapaz de lutar\nMas a armadura pesa demais\nEles te pegam\nFim covarde");
+        }else if(d==3){
+            printf("Guardas aparecem para te prender, por ter matado o alquimista\nE uma guerra começa entre o reino e os bandidos causadas por você\nFim caótico");
+        }else if(d==4){
+            printf("Os bandidos ficam com pena de você\nMas levam toda a sua recompensa\nFim patético");
+        }else if(d==5){
+            printf("Os bandidos se assustam, pensando que você é louco\nUm circo errante passa, e te leva cativo como atração Therian\nFim essencial");
+        }else if(d==6){
+            printf("Você já não tinha nada, mas eles reconhecem seu valor\nAgora você é rei da coitadolândia\nFim bom");
+        }
+    }else{
+        printf("Vá a merda");
+    }
+
+    return 0;
+}
